@@ -21,6 +21,13 @@ A sleek, modern, and interactive landing page designed to showcase the Women in 
 - **Frontend:** NextJS, Tailwind CSS
 - **Version Control:** Git, GitHub
 
+## ❤️ ScreenShots 
+![Screenshot 2025-03-04 221803](https://github.com/user-attachments/assets/294cc8af-d120-4d16-a352-c4dfbbfb6eda)
+![Screenshot 2025-03-04 221830](https://github.com/user-attachments/assets/0108007a-5347-4c17-b3d4-ba6cd336ddb4)
+![Screenshot 2025-03-04 221840](https://github.com/user-attachments/assets/258b7c84-d69f-40d1-b6d8-05968889bdcf)
+![Screenshot 2025-03-04 221852](https://github.com/user-attachments/assets/15860044-6014-4812-b10f-4d6adf9c8063)
+
+
 ## 🚀 Installation
 To set up the project on your local machine:
 
